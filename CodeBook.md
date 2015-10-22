@@ -1,8 +1,10 @@
-# cleaning-data-project code book
+# Cleaning Data Course Project Code Book
+
+This document describes the variables, the data, and any transformations or work that were performed to clean up the data supplied by http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 ## Transformations
 
-The run_analysis script, dowloads the data from:
+The run_analysis.R script, downloads the data from:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
